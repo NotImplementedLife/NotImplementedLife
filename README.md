@@ -1,4 +1,6 @@
 Always being in search of my own style
+
+Discord: NotImpLife #1049
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notimplementedlife&layout=compact&title_color=fff&text_color=fff&bg_color=6b241b&hide=Makefile&custom_title=My%20unforgivable%20sins%20:%29%29)](https://github.com/NotImplementedLife)
  
