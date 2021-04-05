@@ -7,7 +7,6 @@ Discord: NotImpLife #1049
  My (far from complete) projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NotImplementedLife&repo=Crusade&bg_color=686DD6&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/NotImplementedLife/Crusade)
-  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NotImplementedLife&repo=Sudoku&bg_color=398E3D&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/NotImplementedLife/Sudoku)
-  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NotImplementedLife&repo=FSPDS&bg_color=F78325&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/NotImplementedLife/FSPDS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NotImplementedLife&repo=AIRPLANZ&bg_color=346856&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/NotImplementedLife/AIRPLANZ)
