@@ -4,7 +4,7 @@
 
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=NotImplementedLife&hide_border=true&date_format=j%20M%5B%20Y%5D"></img></p>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notimplementedlife&layout=compact&title_color=fff&text_color=fff&bg_color=6b241b&hide=Makefile&custom_title=My%20unforgivable%20sins%20:%29%29)](https://github.com/NotImplementedLife)
+ [![Top Langs](https://github-readme-stats-lime-ten.vercel.app/api/top-langs/?username=notimplementedlife&layout=compact&title_color=fff&text_color=fff&bg_color=6b241b&hide=Makefile&custom_title=My%20unforgivable%20sins%20:%29%29)](https://github.com/NotImplementedLife)
  
  ### My (far from complete) projects:
 
