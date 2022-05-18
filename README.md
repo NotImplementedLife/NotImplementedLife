@@ -1,4 +1,4 @@
-Always being in search of my own style
+𝓐𝓵𝔀𝓪𝔂𝓼 𝓫𝓮𝓲𝓷𝓰 𝓲𝓷 𝓼𝓮𝓪𝓻𝓬𝓱 𝓸𝓯 𝓶𝔂 𝓸𝔀𝓷 𝓼𝓽𝔂𝓵𝓮
 
 ![Discord](https://img.shields.io/badge/NotImpLife%231049-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)<a href="https://notimplementedlife.itch.io">![itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)</a><a href="https://twitter.com/NotImpLife">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a><a href="https://www.youtube.com/channel/UC-0C58sSNynr5kTgT24NXqQ">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
 
