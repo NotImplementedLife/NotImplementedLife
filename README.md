@@ -24,6 +24,8 @@
 #### C#
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NotImplementedLife&repo=Crusade&bg_color=686DD6&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/NotImplementedLife/Crusade)
+[![Readme Card](https://github-readme-stats-lime-ten.vercel.app/api/pin/?username=NotImplementedLife&repo=DualShot&bg_color=fff8dc&title_color=000&text_color=000&icon_color=000)](https://github.com/NotImplementedLife/DualShot)
+
 
 #### Android
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NotImplementedLife&repo=Sudoku&bg_color=398E3D&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/NotImplementedLife/Sudoku)
