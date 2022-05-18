@@ -6,9 +6,18 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notimplementedlife&layout=compact&title_color=fff&text_color=fff&bg_color=6b241b&hide=Makefile&custom_title=My%20unforgivable%20sins%20:%29%29)](https://github.com/NotImplementedLife)
  
- My (far from complete) projects:
+ ### My (far from complete) projects:
+
+#### Nintendo Homebrew (GB/GBC/GBA/NDS)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NotImplementedLife&repo=AIRPLANZ&bg_color=346856&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/NotImplementedLife/AIRPLANZ)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NotImplementedLife&repo=FSPDS&bg_color=F78325&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/NotImplementedLife/FSPDS)
+
+#### C#
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NotImplementedLife&repo=Crusade&bg_color=686DD6&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/NotImplementedLife/Crusade)
+
+#### Android
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NotImplementedLife&repo=Sudoku&bg_color=398E3D&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/NotImplementedLife/Sudoku)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NotImplementedLife&repo=FSPDS&bg_color=F78325&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/NotImplementedLife/FSPDS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NotImplementedLife&repo=AIRPLANZ&bg_color=346856&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/NotImplementedLife/AIRPLANZ)
+
+
