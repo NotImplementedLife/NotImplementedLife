@@ -11,6 +11,9 @@
 #### Nintendo Homebrew (GB/GBC/GBA/NDS)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NotImplementedLife&repo=AIRPLANZ&bg_color=346856&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/NotImplementedLife/AIRPLANZ)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NotImplementedLife&repo=rubik&bg_color=327345&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/NotImplementedLife/rubik)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NotImplementedLife&repo=brekstascat&bg_color=004603&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/NotImplementedLife/brekstascat)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NotImplementedLife&repo=Trabant&bg_color=327345&title_color=ffe79f&text_color=ffe79f&icon_color=ffe79f)](https://github.com/NotImplementedLife/Trabant)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NotImplementedLife&repo=FSPDS&bg_color=F78325&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/NotImplementedLife/FSPDS)
 
 #### C#
