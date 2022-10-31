@@ -19,8 +19,6 @@ https://notimplementedlife.github.io/
 
 [![Readme Card](https://github-readme-stats-lime-ten.vercel.app/api/pin/?username=NotImplementedLife&repo=A-4D-Christmas&bg_color=29003d&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/NotImplementedLife/A-4D-Christmas)
 [![Readme Card](https://github-readme-stats-lime-ten.vercel.app/api/pin/?username=NotImplementedLife&repo=NotebookAdventure&bg_color=fcf9e2&title_color=00164b&text_color=00164b&icon_color=00164b)](https://github.com/NotImplementedLife/NotebookAdventure)
-[![Readme Card](https://github-readme-stats-lime-ten.vercel.app/api/pin/?username=NotImplementedLife&repo=GlaciaDungeon&bg_color=00005f&title_color=00f7e6&text_color=ffffff&icon_color=00f7e6)](https://github.com/NotImplementedLife/GlaciaDungeon)
-[![Readme Card](https://github-readme-stats-lime-ten.vercel.app/api/pin/?username=NotImplementedLife&repo=Bugtris&bg_color=161918&title_color=eeeeee&text_color=eeeeee&icon_color=eeeeee)](https://github.com/NotImplementedLife/Bugtris)
 
 [![Readme Card](https://github-readme-stats-lime-ten.vercel.app/api/pin/?username=NotImplementedLife&repo=FSPDS&bg_color=F78325&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/NotImplementedLife/FSPDS)
 [![Readme Card](https://github-readme-stats-lime-ten.vercel.app/api/pin/?username=NotImplementedLife&repo=d-Elusion&bg_color=fcfcfc&title_color=000&text_color=000&icon_color=880000)](https://github.com/NotImplementedLife/d-Elusion)
