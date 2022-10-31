@@ -35,3 +35,4 @@ https://notimplementedlife.github.io/
 [![Readme Card](https://github-readme-stats-lime-ten.vercel.app/api/pin/?username=NotImplementedLife&repo=Sudoku&bg_color=398E3D&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/NotImplementedLife/Sudoku)
 
 
+
