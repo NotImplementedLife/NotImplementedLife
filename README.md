@@ -1,6 +1,6 @@
 𝒜𝓁𝓌𝒶𝓎𝓈 𝒷𝑒𝒾𝓃𝑔 𝒾𝓃 𝓈𝑒𝒶𝓇𝒸𝒽 𝑜𝒻 𝓂𝓎 𝑜𝓌𝓃 𝓈𝓉𝓎𝓁𝑒
 
-![Discord](https://img.shields.io/badge/NotImpLife%231049-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)<a href="https://notimplementedlife.itch.io">![itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)</a><a href="https://twitter.com/NotImpLife">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a><a href="https://www.youtube.com/channel/UC-0C58sSNynr5kTgT24NXqQ">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
+![Discord](https://img.shields.io/badge/NotImpLife%231049-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)<a href="https://notimplementedlife.itch.io">![itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)</a><a href="https://twitter.com/NotImpLife">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a><a href="https://www.youtube.com/channel/UC-0C58sSNynr5kTgT24NXqQ">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a><a rel="me" href="https://retrochat.online/@NotImplementedLife">![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)</a>
 
 https://notimplementedlife.github.io/
 
@@ -33,6 +33,4 @@ https://notimplementedlife.github.io/
 
 #### Android
 [![Readme Card](https://github-readme-stats-lime-ten.vercel.app/api/pin/?username=NotImplementedLife&repo=Sudoku&bg_color=398E3D&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/NotImplementedLife/Sudoku)
-
-
 
