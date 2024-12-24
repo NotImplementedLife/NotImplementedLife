@@ -4,8 +4,6 @@
 
 https://notimplementedlife.github.io/
 
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=NotImplementedLife&hide_border=true&date_format=j%20M%5B%20Y%5D"></img></p>
-
  ### My (far from complete) projects:
 
 #### Nintendo Homebrew (GB/GBC/GBA/NDS)
